@@ -1,0 +1,276 @@
+========== NAVBAR ==========
+.navbar-brand img
+CofeSip 
+
+.nav-item .nav-link
+Home
+
+About
+
+Menu
+
+Product
+
+Gallary
+
+Contact
+
+Review
+
+
+========== HOME ==========
+.content h3
+Life is not superior <br />
+            without coffee
+
+.content p
+choose and taste delicious coffee from the<br />best beans.
+
+.book-link
+Book Now
+
+.about-link
+Learn About Us
+
+========== ABOUT ==========
+.heading
+About
+
+.heading span
+Us
+
+#about .card img
+"./images/about.png"
+
+.col-md-6 h3
+We provides best quality forever
+
+.col-md-6 p
+Our coffee shop that provides you with quality coffee that helps
+boost your productivity and helps build your mood. Having a cup
+of coffee is good, but <br />having a cup of real coffee is
+greater. <br /><br />There is no doubt that you will enjoy this
+coffee more than others you have ever tasted. Explore all
+flavors of coffee with us.<br /><br />We'll show you how the
+best coffee is the best coffee that comes from the best beans.
+
+#about-btn
+Learn More
+
+
+========== TOP CARDS ==========
+.heading2
+Top
+
+.heading2 span
+Categories
+
+
+========== MENU ==========
+.heading
+Menu
+
+.menu h3
+Turkish Coffee
+
+.menu p
+$99 
+
+.menu h3
+Ristretto
+
+.menu p
+$90 
+
+.menu h3
+Cappuccino
+
+.menu p
+$100
+
+.menu h3
+Latte
+
+.menu p
+$120
+
+.menu h3
+Espresso
+
+.menu p
+$200
+
+.menu h3
+Black Eye
+
+.menu p
+$30
+
+.menu h3
+Flat White
+
+.menu p
+$100
+
+.menu h3
+Americano
+
+.menu p
+$120
+
+
+========== PRODUCTS ==========
+.heading4
+Products
+
+.product h3
+Arabic Coffee
+
+.product p
+$120
+
+.product h3
+Cappuccino Coffee
+
+.product p
+$250
+
+.product h3
+Black Coffee
+
+.product p
+$130
+
+.product h3
+Decaf Coffee
+
+.product p
+$120
+
+
+========== OUR GALLARY ==========
+#gallary h1
+Our
+
+#gallary h1 span
+Gallary
+
+
+========== Contact ==========
+.heading6
+Contact
+
+.heading6 span
+Us
+
+.contact p
+We'd love to hear from you! Whether you have a question,<br />
+feedback, or just want to say 'Hi'.
+
+#contact-btn
+Send Message
+
+.contact h1
+Info
+
+.contact #col p
+example@gmail.com
+
++21600000000000000
+
+Tunis, Tunisia
+
+Feel free to reach out. We're here to brew happiness for you!
+
+
+========== REVIEW ==========
+.review .underline
+Reviews
+
+.review .underline span
+what people says
+
+.review .review-slider .box p
+I can never stop praising your coffee as well as cofeSip shop.
+Whenever I come again, I will definitely make a vlog on your
+shop and upload it on my YouTube channel for your popularity:)
+
+.review .review-slider .box h3
+James Stephen
+
+.review .review-slider .box span
+satisfied client
+
+.review .review-slider .box p
+Every morning, every sip of your coffee makes me feel the
+freedom of Palestine. I now order the PM of Israel to declare a
+ceasefire in Palestine now.
+
+.review .review-slider .box h3
+Donald J. Trump
+
+.review .review-slider .box span
+satisfied client
+
+.review .review-slider .box p
+The best cappuccino I've ever had! Perfectly creamy and
+flavorful. I am so sure that when I will drink this coffee and
+win a football match against Ronaldo
+
+.review .review-slider .box h3
+Lionel Messi
+
+.review .review-slider .box span
+satisfied client
+
+.review .review-slider .box p
+إنك تعارضني بشدة وتعارض حزبي، ولكن منذ أن شربت القهوة من محلك
+وأنا مدمن على طعم قهوتك.
+
+.review .review-slider .box h3
+Najla Bouden
+
+.review .review-slider .box span
+satisfied client
+
+.review .review-slider .box p
+Your coffee is so tasty that I rise from my grave and come to
+your shop at night to drink coffee.
+
+.review .review-slider .box h3
+Mona Lisa
+
+.review .review-slider .box span
+satisfied client
+
+
+========== FOOTER ==========
+.footer_section h4 
+Our Branches
+
+.branches_box a
+india
+USA
+france
+africa
+japan
+
+.footer_section .footer-logo
+CofeSip
+
+.footer_section .footer-logo p
+Brewing happiness, one cup at a time. Your daily dose of joy
+in every sip!
+
+.footer_section .credite p
+Designed By 
+
+.footer_section .credite p a
+Hamza Zayani
+
+.footer_section .copyright p
+&copy; All Rights Reserved By
+
+.footer_section .copyright p a
+Zayanicode
+
